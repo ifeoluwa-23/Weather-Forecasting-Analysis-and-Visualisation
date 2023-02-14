@@ -1,4 +1,4 @@
-## Weather-Forecasting-Analysis-and-Visualisation
+## Weather Forecasting Analysis and Visualisation
 
 This repository contains all information aboout the project, SQL scripts for data cleaning and analysis for the above project. The project was initiated on LinkedIn by Aditya Sharma.
 
