@@ -68,4 +68,4 @@ Each of the following case study questions were derived from the data using SQL:
  
   *View the data cleaning scripts:*: [HERE](https://github.com/ifeoluwa-23/Weather-Forecasting-Analysis-and-Visualisation/blob/main/Data%20Cleaning%20Script.sql)
   
-  *View the Case Study Analysis scripts:*: [HERE](https://app.powerbi.com/groups/d6bcd25c-dd72-4f13-9883-203d87c14051/reports/c29af9e6-0285-4cc9-b53a-e187ad5000e6/ReportSection)
+  *View the Case Study Analysis scripts:*: [HERE](https://github.com/ifeoluwa-23/Weather-Forecasting-Analysis-and-Visualisation/blob/main/Solution%20Script.sql)
