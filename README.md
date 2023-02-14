@@ -42,6 +42,8 @@ This data contains day wise weather attributes from 2022 to July 2033 (predicted
 </p>
 </details>
 
+*View the raw dataset:* [HERE](https://github.com/ifeoluwa-23/Weather-Forecasting-Analysis-and-Visualisation/blob/main/weather_dataset_stage1.xls)
+
 ## :closed_book: Data Cleaning Tasks
 Each of the following data cleaning tasks were carried out on the data using SQL:
 
