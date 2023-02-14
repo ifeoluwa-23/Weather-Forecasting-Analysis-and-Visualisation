@@ -1,6 +1,6 @@
 ## Weather-Forecasting-Analysis-and-Visualisation
 
-This project shows my scripts and output for the above project. The project was initiated on LinkedIn by Aditya Sharma, which I participated in.
+This project shows my scripts and output for the above project. The project was initiated on LinkedIn by Aditya Sharma.
 
 ## :bookmark_tabs: Table of Contents
 - 📝 About the Project
